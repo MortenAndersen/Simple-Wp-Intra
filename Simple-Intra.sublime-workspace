@@ -1,0 +1,954 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"las",
+				"last-break"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"fir",
+				"first-break"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"la",
+				"last-break"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"qui",
+				"quick-book"
+			],
+			[
+				"komiker",
+				"komiker-slider"
+			],
+			[
+				"fa",
+				"farve4"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"refe",
+				"reference"
+			],
+			[
+				"a",
+				"atts"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"border-t",
+				"border-top-width"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"boder-r",
+				"border-radius"
+			],
+			[
+				"boder-co",
+				"border-color"
+			],
+			[
+				"st",
+				"st"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"lisy",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"cor",
+				"cursor"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"menu",
+				"mobile-menu"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single-simpleintra.php",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/wpbase/wp-content/plugins/simple-intra"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/sidebar-footer.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/scss/module.scss",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/scss/layout.scss",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/scss/font.scss",
+		"/Users/morten/Desktop/wp-test.xml",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/front-page.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/read/style.css",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/style.css",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/functions.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/single.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/page.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/footer.php",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/package.json",
+		"/Applications/MAMP/htdocs/wpbase/wp-content/themes/wpbase/Gruntfile.js",
+		"/Users/morten/Documents/grunttest/package.json",
+		"/Users/morten/Documents/grunttest/read/style.css",
+		"/Users/morten/Documents/grunttest/style.css",
+		"/Users/morten/Documents/grunttest/scss/style.scss",
+		"/Users/morten/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/morten/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/morten/Documents/grunttest/index.html",
+		"/Users/morten/Documents/grunttest/scss/_mixin.scss",
+		"/Users/morten/Documents/grunttest/Gruntfile.js",
+		"/Users/morten/Documents/grunttest/style.css.map",
+		"/Users/morten/Documents/grunttest/sass/style.scss",
+		"/Users/morten/Desktop/sass-test/Gruntfile.js",
+		"/Users/morten/Desktop/sass-test/style.css",
+		"/Users/morten/Desktop/sass-test/SCSS/_main.scss",
+		"/Users/morten/Desktop/sass-test/package.json",
+		"/Applications/MAMP/htdocs/drupal/sites/all/themes/scanpublisher/css/grid.css",
+		"/Users/morten/Google Drive/Hjemmesider_morten.dk/Kunder/Carbi/MODX/forsideCarbi.txt",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wpsimple/test.sass",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wpsimple/test.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wpsimple/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/hjemmesider/style.css",
+		"/Users/morten/Desktop/test.css",
+		"/Users/morten/Google Drive/FBI/fbivol2/FBIhtml.sublime-project",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/fbitv.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/kalender.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/grid.css",
+		"/Users/morten/Google Drive/FBI/fbivol2/js/fbi-module.js",
+		"/Users/morten/Google Drive/FBI/fbivol2/Druapl views/maanedsklaender.txt",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/font.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/anden.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/et-show.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/show.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/kontakt.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/kontakt.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/grid.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/menu.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/komikere.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/booking.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/knapper.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/zoo.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/medarbejder.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/elements.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/animate.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/kalender.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/zoo-front.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/zoo.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/search.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/index.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/booking.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/kalnder_old_view.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/konstanter.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/en-komiker.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/kontakt-filer/js_9PoCIpaBdXzAfwjeoO2ibi_TtEs6jMROpVOwk-_WIBw.js",
+		"/Users/morten/Google Drive/FBI/fbivol2/kontakt-filer/index_data/st.js",
+		"/Users/morten/Downloads/www.hjemmesider.dk/seo.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/banner.scss",
+		"/Users/morten/Google Drive/FBI/fbivol2/css/bxslider.scss",
+		"/Users/morten/Downloads/Ikke-navngivet dokument.svg",
+		"/Users/morten/Desktop/wp.svg",
+		"/Users/morten/Google Drive/FBI/fbivol2/komikere.html",
+		"/Users/morten/Google Drive/FBI/fbivol2/spillesteder.txt",
+		"/Users/morten/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/morten/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/css/date.css",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbiadmin/fbiadmin.info",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--views--comedy-kalender-block-2.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/page--node--23.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/page--comedy-kalender.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbiadmin/fbiadmin.css",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/html--comedy-kalender.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/fbi.info",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--views--show-liste-block-1.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--fbi_show.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--field-obs.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/html--kalender-ex.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/page--kalender-ex.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-field--comedy-kalender-extern--title.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-field--comedy-kalender-extern--title.tpl.ph.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--views--komiker-statement-block-1.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--23.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-list--booking-select--block-1.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--kunstner.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--fbi-show.tpl kopi.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--24.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view--comedy-kalender--page.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field-collection.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--field-billet.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--field-spillested.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--fbi-kalender--month-block.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/template.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--footer.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/komiker-liste.txt",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-list--banner-blog--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block-views-billedebokse_lister-block_1.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/html--node--24.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--bannerform.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--13.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--field-komikerlinks.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node--komiker.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/field--field-youtube.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--prefooter.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-list--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/node.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--views--banner-blog-block-1.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block-views.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-list.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/block--views--banner-blog-block-2.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-field--block-1.tplxxx.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-field--field-citat.tpl.php",
+		"/Applications/MAMP/htdocs/fbi/sites/all/themes/fbi/templates/views-view-field--field-citat.tpl.php,.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wpbase_textwidget_before_text",
+			"black_studio",
+			"webform-component--komiker-foresporgsel",
+			":9000",
+			":8888",
+			"go__to__calendar",
+			"ul.fbi__tv.fbi__tv__aside",
+			"id-faa-billetter",
+			"but",
+			"top",
+			"read",
+			"rea",
+			" #edit-field-dato-value-max-wrapper",
+			"#edit-field-dato-value-min-wrapper, #edit-field-dato-value-max-wrapper",
+			"#views-exposed-form-kalender-page .views-exposed-widget",
+			"1.5",
+			"#edit-field-dato-value-wrapper",
+			"hide__link",
+			".webform-component--top-tekst",
+			"foo",
+			"social",
+			"- er aktu",
+			"book__quick",
+			".views__liste__title",
+			"luk",
+			"go__to__calendar",
+			"views__liste__title",
+			"kalender",
+			"views__liste__title",
+			".views__liste__title",
+			"knapper",
+			"luk",
+			"presse",
+			"font-f",
+			"absolut",
+			".logo",
+			"video",
+			"quick",
+			"slider-prev.png",
+			"luk",
+			"redigér",
+			"  ",
+			"quick",
+			"top-pad",
+			"newstart",
+			" ",
+			"redigér",
+			"Websitet anvender cookies til at huske dine indstillinger og statistik",
+			"bx_loader",
+			".gif",
+			"dato",
+			"	",
+			"/hjemmesider/",
+			"@font-face",
+			"dt",
+			"article",
+			"images",
+			"slidersss",
+			".sass",
+			"\")",
+			"url(\"",
+			".css",
+			"”",
+			"“",
+			"  ",
+			"news__item--news",
+			"  ",
+			"article",
+			"  ",
+			"article",
+			"h3",
+			"h1",
+			"url(.",
+			"url(\"/",
+			"services__item",
+			".nav__item",
+			"nav",
+			"gts",
+			"/images/",
+			"  ",
+			" ",
+			"  ",
+			"THEME-NAVN",
+			"THEME",
+			"600",
+			"610"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":9000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "single-simpleintra.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 292.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Simple-Intra.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/morten/Google Drive/Granhøjen/GTS/gts/gts-drupal-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
