@@ -30,11 +30,12 @@ if (is_user_logged_in()) { ?>
     comments_template(); ?>
 
 </article>
-
+<?php if ( is_active_sidebar( 'intranetright' ) ) { ?>
 <aside class="last">
 <?php
     dynamic_sidebar('intranetright'); ?>
 </aside>
+<?php } ?>
 <?php
     dynamic_sidebar('intranetbottom'); ?>
 	<?php
